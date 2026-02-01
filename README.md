@@ -1,7 +1,7 @@
 # 💀 MAFIGPT v4.0
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Achiachiofficial/MAFIGPT/main/images/logo.png" width="400" alt="MAFIGPT Logo">
+  <img src="https://raw.githubusercontent.com/Achiachiofficial/MAFIGPT/main/logo.png" width="350" alt="MAFIGPT Logo">
 </p>
 
 <p align="center">
@@ -9,17 +9,28 @@
   <i>"Fast, Secure, and Unfiltered intelligence at your fingertips."</i>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained">
+  <img src="https://img.shields.io/badge/Language-Python-blue.svg" alt="Language">
+  <img src="https://img.shields.io/badge/Platform-Termux-orange.svg" alt="Platform">
+</p>
+
 ---
 
+## 📖 Description
+**MAFIGPT** යනු Termux සඳහා විශේෂයෙන් නිපදවන ලද බලවත් AI සහායකයෙකි. මෙය Groq Llama 3.3 70B මාදිලිය භාවිතා කරන අතර, ඉතා වේගවත් සහ නිවැරදි පිළිතුරු ලබා දෙයි. මෙහි මූලාශ්‍ර කේතය (Source Code) ආරක්ෂා කර ඇති බැවින් පෞද්ගලිකත්වය උපරිම වේ.
+
 ## 🚀 Features
-* **Engine**: Llama 3.3 70B (Latest high-speed model).
-* **Security**: Encrypted Source Code (.pyc) for maximum privacy.
-* **UI/UX**: Optimized Termux display with side margins (No text overflow).
-* **Ease of Use**: Auto-saves API configuration for a seamless experience.
+* **Engine**: Llama 3.3 70B (Latest high-speed reasoning model).
+* **Security**: Encrypted Source Code (.pyc) to prevent unauthorized modifications.
+* **UI/UX**: Optimized display with custom margins for mobile screens.
+* **Configuration**: Auto-setup system for API keys.
 
-## 📦 Installation
+---
 
-To use this tool, follow these steps in your Termux:
+## 🛠️ Installation & Usage
+
+මෙම ටූල් එක පාවිච්චි කිරීමට පහත පියවරවල් අනුගමනය කරන්න:
 
 ```bash
 # Update and upgrade system
@@ -31,8 +42,11 @@ pkg install git python -y
 # Clone the repository
 git clone [https://github.com/Achiachiofficial/MAFIGPT.git](https://github.com/Achiachiofficial/MAFIGPT.git)
 
-# Navigate to the tool folder
+# Navigate to the folder
 cd MAFIGPT
 
-# Install requirements
+# Install required library
 pip install requests
+
+
+Running the Too
