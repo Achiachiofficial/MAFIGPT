@@ -17,10 +17,10 @@
 
 ---
 
-## 📖 Description
+### 📖 Description
 **MAFIGPT** යනු Termux සඳහා විශේෂයෙන් නිපදවන ලද බලවත් AI සහායකයෙකි. මෙය Groq Llama 3.3 70B මාදිලිය භාවිතා කරන අතර, ඉතා වේගවත් සහ නිවැරදි පිළිතුරු ලබා දෙයි. මෙහි මූලාශ්‍ර කේතය (Source Code) ආරක්ෂා කර ඇති බැවින් පෞද්ගලිකත්වය උපරිම වේ.
 
-## 🚀 Features
+### 🚀 Features
 * **Engine**: Llama 3.3 70B (Latest high-speed reasoning model).
 * **Security**: Encrypted Source Code (.pyc) to prevent unauthorized modifications.
 * **UI/UX**: Optimized display with custom margins for mobile screens.
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Installation & Usage
+### 🛠️ Installation & Usage
 
 මෙම ටූල් එක පාවිච්චි කිරීමට පහත පියවරවල් අනුගමනය කරන්න:
 
@@ -50,3 +50,31 @@ pip install requests
 
 
 Running the Too
+
+```
+
+---
+
+
+### 🔧 Running the Tool:
+### ​🔑 Note: පළමු වරට රන් කිරීමේදී ඔබගේ .... API Key එක ඇතුළත් කළ යුතුය.achiachiofficial ගෙන් ඉල්ලගන්න.🫠
+
+```bash
+python MAFIGPT.pyc
+```
+### ​📸 Screenshots
+​<p align="center">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Achiachiofficial/MAFIGPT/main/images/screenshot.png" width="600" alt="Tool Screenshot">
+</p>
+### ​👨‍💻 Author
+​Name: ACHIACHI OFFICIAL
+​GitHub: @Achiachiofficial
+​Telegram: Join Channel
+
+### ​⚖️ License & Disclaimer
+​This tool is for educational purposes only. The author is not responsible for any misuse.
+
+
+Copyright © 2026 ACHIACHI OFFICIAL
+​<p align="center">Made with ❤️ in Sri Lanka</p>
+
