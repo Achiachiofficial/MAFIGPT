@@ -64,8 +64,9 @@ python MAFIGPT.pyc
 ```
 ### ​📸 Screenshots
 ​<p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Achiachiofficial/MAFIGPT/main/screenshot.png" width="600" alt="Tool Screenshot">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/Achiachiofficial/MAFIGPT/main/screenshot.jpg" width="600" alt="Tool Screenshot">
 </p>
+
 ### ​👨‍💻 Author
 ​Name: ACHIACHI OFFICIAL
 ​GitHub: @Achiachiofficial
